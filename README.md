@@ -6,3 +6,7 @@ The microcontroller, in my case an Adafruit HUZZAH 32 will send the info from th
 # Compile / Run
 Run the Python script from the visualizer-Folder on you computer. The title bar will show you your IP-address and port.
 To run this example you have to set the WiFi credentials and the IP-address of your computer in the Arduino sketch and upload it to your Wifi-enabled Feather board.
+
+
+# Acknowledgements
+This work was UHasselt and Flanders Make.
